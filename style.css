@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/floral-background-with-branch_23-2147721294.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: darkslategray;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#profile-foto {
+    width: 270px;
+    border: 3px solid darkolivegreen;
+    opacity: 90%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+div {
+    font-family: cursive;
+    width: 65%;
+}
+
+.headers {
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
