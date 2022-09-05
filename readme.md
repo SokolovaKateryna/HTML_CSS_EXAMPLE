@@ -1,2 +1,3 @@
 Hello everyone!
-This is my first experience working with GITHub.
+This is my CV for Junior QA Manual position.
+I will appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
